@@ -117,7 +117,7 @@ console.log(countBanyakAngka(["u", "h", "b", "n", "7", "6", "5", "1", "g", "7", 
           <Button className="w-full">Download Code</Button>
         </Link>
         <Link
-          to="https://github.com/mbaharip/pln-icon-plus-test-fe/blob/main/public/additional.ts"
+          to="https://github.com/mbahArip/pln-icon-plus-test-fe/blob/master/public/additional.ts"
           target="_blank"
           rel="noreferrer noopener"
           className="w-full"
